@@ -46,11 +46,11 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Source code ⚡", url="https://github.com/mitthu786/TechieX_bot"
+                        "Source code ⚡", url="https://github.com/kiprox/jiem_bot"
                     ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/TechieX_bot"),
+                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/pemburuplanet"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/techiesneh")],
+                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/kiprox")],
             ]
         ),
         reply_to_message_id=update.message_id
