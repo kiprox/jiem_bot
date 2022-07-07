@@ -1,4 +1,4 @@
-#### [TechieX-BOT](https://t.me/TechieX_bot)
+#### [ANOMAN-BOT](https://t.me/AnomanBot)
 ---
 
 Telegram RoBot to Upload Links.
